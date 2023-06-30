@@ -1,3 +1,4 @@
+#pip install googletrans
 
 from googletrans import Translator
 sen = str(input("Enter the sentance: "))
